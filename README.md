@@ -2,7 +2,7 @@
 
 #### A planning repository for Capstone Project, Epicodus
 
-### **by Marguerite Kennedy, August 1, 2019**
+### **by Marguerite Kennedy**
 
 ## Description
 
