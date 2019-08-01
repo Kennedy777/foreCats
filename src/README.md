@@ -18,6 +18,10 @@ Future Buildout: Using Cloudinary's upload tool and Redux and Axios state manage
 
 Other buildout could include a side-by-side city comparison or a toggled multi-day forecast.
 
+## UI Component Hierarchy
+
+An illustration of the UI component hierachy with state representation can be found here: https://github.com/Kennedy777/foreCats/blob/master/sourcetree.jpg
+
 ## Specs
 
 | Behavior | Input | Output |
@@ -31,7 +35,6 @@ Other buildout could include a side-by-side city comparison or a toggled multi-d
 * `npm install`
 * `npm run build`
 * `Get an API key from Open Weather Map (openweathermap.org/)`
-
 
 ## Technologies Used
   * React
